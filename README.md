@@ -1,1 +1,1 @@
-In this repository I would be sharing my data structres and its codes.
+In this repository I would be sharing the code of various data structures and its implementations.
